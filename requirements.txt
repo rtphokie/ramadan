@@ -1,0 +1,5 @@
+umalqurra >= 0.2
+pyephem == 3.7.6.0
+matplotlib >= 1.3.0
+pandas >= 0.20.0
+numpy >= 1.11.0
